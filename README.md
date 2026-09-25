@@ -11,7 +11,7 @@
 
 ## 🚀 Встановлення
 
-1. Завантажте архів [`release/LocDB_en-US.zip`](release/LocDB_en-US.zip).
+1. Завантажте архів `LocDB_en-US.zip` з [останнього релізу](https://github.com/denisilin-developer/DreamlightValley-Ukrainian/releases/latest).
 2. Відкрийте теку з грою, наприклад:
    ```text
    D:\Steam\steamapps\common\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Localization\LocDB_en-US
