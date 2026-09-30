@@ -14,11 +14,11 @@
 - **Fox companions = «лис» (m)**, geese = «гусак» (m) unless named female, sunbird = «нектарниця».
 
 ## Characters
-- Use the Ukrainian dub names: Попелюшка, Білосніжка, Дзвіночок (Tinker Bell), Базз Рятівник, Блудько (Tramp), Іа-Іа, П'ятачок, Тигра, Небувалія (Never Land), Скрудж Макдак.
+- Use the Ukrainian dub names: Попелюшка, Білосніжка, Дінь-Дінь (Tinker Bell), Базз Рятівник, Блудько (Tramp), Іа-Іа, П'ятачок, Тигра, Небувалія (Never Land), Скрудж Макдак.
 - Film tags use the official Ukrainian titles: «Думками навиворіт», «Зоотрополіс», «Суперсімейка» (The Incredibles), «Місто героїв» (Big Hero 6), «Я — червона панда», «Вперед і вгору».
 - **Beast = «Звір»**, carried over from the old glossary. Only the film title stays «Красуня і Чудовисько».
 - **Sulley = Саллі, Sally = Селлі.** Two characters must never share one spelling.
-- **Grammatical gender and speaker gender can differ.** Agree verbs with the character: «Сум сказала», «фея Дзвіночок прилетіла», «Мавпа-ватажок сказав». The note column holds the speaker gender. "(inferred)" means it is my best guess, and translators should use it until a dialogue proves it wrong.
+- **Grammatical gender and speaker gender can differ.** Agree verbs with the character: «Сум сказала», «фея Дінь-Дінь прилетіла», «Мавпа-ватажок сказав». The note column holds the speaker gender. "(inferred)" means it is my best guess, and translators should use it until a dialogue proves it wrong.
 - Indeclinable: Міккі, Мінні, Гуфі, Дейзі, Плуто, Ремі, Белль, Леді, Мауї, Угі-Бугі, Рапунцель, Іа-Іа, Зеро.
 
 ## Coining new names (things not in the list)
