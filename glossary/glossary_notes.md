@@ -14,15 +14,15 @@
 - **Fox companions = «лис» (m)**, geese = «гусак» (m) unless named female, sunbird = «нектарниця».
 
 ## Characters
-- Use the Ukrainian dub names: Попелюшка, Білосніжка, Дінь-Дінь (Tinker Bell), Базз Рятівник, Блудько (Tramp), Іа-Іа, П'ятачок, Тигра, Небувалія (Never Land), Скрудж Макдак.
+- Use the Ukrainian dub names: Попелюшка, Білосніжка, Дінь-Дінь (Tinker Bell), Базз Рятівник, Волоцюга (Tramp), Іа-Іа, П'ятачок, Тигра, Небувалія (Never Land), Скрудж Мак-Дак.
 - Film tags use the official Ukrainian titles: «Думками навиворіт», «Зоотрополіс», «Суперсімейка» (The Incredibles), «Місто героїв» (Big Hero 6), «Я — червона панда», «Вперед і вгору».
-- **Beast = «Звір»**, carried over from the old glossary. Only the film title stays «Красуня і Чудовисько».
+- **Beast = «Чудовисько»**, as in the official dub of «Красуня і Чудовисько».
 - **Sulley = Саллі, Sally = Селлі.** Two characters must never share one spelling.
 - **Grammatical gender and speaker gender can differ.** Agree verbs with the character: «Сум сказала», «фея Дінь-Дінь прилетіла», «Мавпа-ватажок сказав». The note column holds the speaker gender. "(inferred)" means it is my best guess, and translators should use it until a dialogue proves it wrong.
-- Indeclinable: Міккі, Мінні, Гуфі, Дейзі, Плуто, Ремі, Белль, Леді, Мауї, Угі-Бугі, Рапунцель, Іа-Іа, Зеро.
+- Indeclinable: Міккі, Мінні, Гуфі, Дейзі, Плуто, Ремі, Бель, Леді, Мауї, Угі-Бугі, Рапунцель, Іа-Іа, Зеро.
 
 ## Coining new names (things not in the list)
-1. Translate the meaning, not the sound. Only personal names are transliterated (Когсворт, Муфетт).
+1. Translate the meaning, not the sound. Only personal names are transliterated (Коґсворт, Муфетт).
 2. **Keep the pun or alliteration** when it can be done. Examples: Modish Marsh → Модні мочари, Delver Dale → Долина Дослідників, Frightcade → Жахаркада, BamBee → Бджембі, IncrediSquirrel → Супербілка, Paw-fect Romance → Кохання лапа в лапу. If you can't find a pun, a clear descriptive name beats a forced one.
 3. Pattern "X's House" = «Будинок X». "X Island" = «Острів X» or an adjective (Сліпучий острів). "X Stall" = «Ятка X».
 4. Colour/variant companions follow the pattern <колір> <прикметник> <тварина>. Never glue in a sea name: «Біла морська черепаха», not «Біломорська».

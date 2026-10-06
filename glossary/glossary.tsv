@@ -102,7 +102,7 @@ Chez Remy	«У Ремі»	-	restaurant name, keep quotes: у ресторані 
 Chez Remy Mobile	«У Ремі» на колесах	-	
 Remy's Restaurant	Ресторан Ремі	m	
 Scrooge's Store	Магазин Скруджа	m	
-General Store	Магазин	m	Scrooge McDuck's General Store = Магазин Скруджа Макдака
+General Store	Магазин	m	Scrooge McDuck's General Store = Магазин Скруджа Мак-Дака
 Goofy's Stall	Ятка Гуфі	f	stall = ятка
 Gem Stall	Ятка самоцвітів	f	
 Tiana's Meal Stall	Закусочна Тіани	f	
@@ -120,8 +120,8 @@ Tigger's House	Будинок Тигри	m
 Busy Bees' House	Будиночок Бджілок-трудівниць	m	
 Fairy Godmother's House	Будинок Хрещеної феї	m	
 Rapunzel's Tower	Вежа Рапунцель	f	
-Beast's Castle	Замок Звіра	m	
-Beast's Greenhouse	Теплиця Звіра	f	
+Beast's Castle	Замок Чудовиська	m	
+Beast's Greenhouse	Теплиця Чудовиська	f	
 West Wing	Західне крило	n	
 Scar's Cave	Печера Шрама	f	
 Skull Rock	Скеля-Череп	f	
@@ -263,27 +263,27 @@ Donald Duck	Дональд Дак	m	speaker: male
 Donald	Дональд	m	speaker: male
 Daisy	Дейзі	f	speaker: female; indeclinable
 Pluto	Плуто	m	dog companion; indeclinable (never «Плутон»)
-Scrooge McDuck	Скрудж Макдак	m	speaker: male
+Scrooge McDuck	Скрудж Мак-Дак	m	speaker: male
 Scrooge	Скрудж	m	speaker: male
 Uncle Scrooge	дядько Скрудж	m	speaker: male
 Oswald	Освальд	m	speaker: male
 Oswald the Lucky Rabbit	Щасливий кролик Освальд	m	franchise tag
 Merlin	Мерлін	m	speaker: male
 Aladdin	Аладдін	m	speaker: male
-Jasmine	Жасмин	f	speaker: female
+Jasmine	Жасмін	f	speaker: female
 Jafar	Джафар	m	speaker: male
 Rajah	Раджа	m	tiger companion; male
 Magic Carpet	Чарівний килим	m	companion
 Alice	Аліса	f	speaker: female
 Sad Alice	Сумна Аліса	f	speaker: female
 Cheshire Cat	Чеширський Кіт	m	speaker: male
-Beast	Звір	m	speaker: male (kept from old glossary; film title stays «Красуня і Чудовисько»)
-The Beast	Звір	m	speaker: male
-Belle	Белль	f	speaker: female; indeclinable
-Mademoiselle Belle	мадемуазель Белль	f	
-Cogsworth	Когсворт	m	speaker: male
+Beast	Чудовисько	n	dub name; Чудовиська/Чудовиську/Чудовиськом; verbs stay masculine; not: Звір
+Beast	Чудовисько	n	dub name; Чудовиська/Чудовиську/Чудовиськом; verbs stay masculine; not: Звір
+Belle	Бель	f	speaker: female; indeclinable
+Mademoiselle Belle	мадемуазель Бель	f	
+Cogsworth	Коґсворт	m	speaker: male
 Lumiere	Люм'єр	m	speaker: male
-Gaston	Гастон	m	speaker: male
+Gaston	Ґастон	m	speaker: male
 His Highness	Його Високість	f	= the Beast (as servants say it); agree verbs with the male Beast
 Merida	Меріда	f	speaker: female
 Clan DunBroch	клан Данброх	m	
@@ -306,7 +306,7 @@ Aurora	Аврора	f	speaker: female
 Princess Aurora	принцеса Аврора	f	speaker: female
 Flora	Флора	f	speaker: female
 Fauna	Фауна	f	speaker: female
-Merryweather	Меррівезер	f	speaker: female; indeclinable
+Merryweather	Миле Сонечко	n	speaker: female; Милого Сонечка; verbs feminine
 Mama BallOOn	Мама-Кулька	f	speaker: female; balloon family: Мама-Кулька / Тато-Кулька / Сестричка-Кулька
 Papa BallOOn	Тато-Кулька	m	speaker: male
 Sister BallOOn	Сестричка-Кулька	f	speaker: female
@@ -325,8 +325,8 @@ Peter Pan's Shadow	Тінь Пітера Пена	f	silent; noun f
 Tinker Bell	Дінь-Дінь	f	indeclinable; not: Дзвіночок
 Lost Boys	Загублені хлопчики	pl	
 Jade Skulls	Нефритові черепи	pl	speaker: male plural (pirate skulls)
-Moana	Моана	f	speaker: female
-Moana's Boat	Човен Моани	m	
+Moana	Ваяна	f	speaker: female
+Moana's Boat	Човен Ваяни	m	
 Maui	Мауї	m	speaker: male; indeclinable
 Heihei	Хей-Хей	m	rooster companion
 Pua	Пуа	m	piglet companion
@@ -354,9 +354,9 @@ Hades	Аїд	m	speaker: male
 Hercules	Геркулес	m	speaker: male
 Phil	Філ	m	speaker: male
 Joy	Радість	f	speaker: female
-Sadness	Сум	m	speaker: female (noun is m; agree verbs with the female character: «Сум сказала»)
+Sadness	Печаль	f	declines: Печалі/Печаллю, voc Печале; not: Сум
 Lady	Леді	f	speaker: female; indeclinable
-Tramp	Блудько	m	speaker: male (Ukrainian dub name)
+Tramp	Волоцюга	m	speaker: male; Волоцюги/Волоцюзі/Волоцюгу/Волоцюгою, voc Волоцюго; not: Блудько
 Jim Dear	Любий Джим	m	Lady's owner; nickname
 Ariel	Аріель	f	speaker: female
 Prince Eric	принц Ерік	m	speaker: male
@@ -387,14 +387,14 @@ Little Louis	Малий Луї	m	alligator; male
 La Dame Blanche	Біла Пані	f	spirit; female
 Ralph	Ральф	m	speaker: male
 Wreck-It Ralph	Ральф-руйнівник	m	character epithet AND film/realm tag (one form)
-Vanellope	Ванеллопа	f	speaker: female
-Vanellope von Schweetz	Ванеллопа фон Кекс	f	speaker: female
+Vanellope	Ванілопа	f	speaker: female
+Vanellope von Schweetz	Ванілопа фон Ірис	f	speaker: female
 Fix-It Felix Jr.	Фелікс-майстер молодший	m	speaker: male
 Remy	Ремі	m	speaker: male; indeclinable
 Snow White	Білосніжка	f	speaker: female
 Flynn	Флін	m	speaker: male
-Flynn Rider	Флін Райдер	m	speaker: male
-Mother Gothel	Мати Готель	f	speaker: female
+Flynn Rider	Флін Козир	m	speaker: male
+Mother Gothel	Мати Ґотель	f	speaker: female
 Rapunzel	Рапунцель	f	speaker: female; indeclinable
 Maximus	Максимус	m	horse; male
 Buzz Lightyear	Базз Рятівник	m	speaker: male (Ukrainian dub name)
@@ -547,7 +547,7 @@ Wood	Деревина	f
 Hercules Diary Scrolls	Сувої щоденника Геркулеса	pl	
 TripleDent Gum Wrapper	Обгортка жуйки «ТриплДент»	f	
 Merchant Papyrus	Папірус торговця	m	
-Gaston's Journal	Щоденник Гастона	m	
+Gaston's Journal	Щоденник Ґастона	m	
 Jafar's Journal	Щоденник Джафара	m	
 Rapunzel's Lyrics	Пісні Рапунцель	pl	
 Aurora's Journals	Щоденники Аврори	pl	
@@ -635,20 +635,20 @@ Valentine's Day	День святого Валентина	m
 New Orleans	Новий Орлеан	m	
 Ticket	Квиток	m	
 Discord	Discord	-	brand — keep Latin
-Tramp's House	Будинок Блудька	m	
-Vanellope's House	Будинок Ванеллопи	m	
+Tramp's House	Будинок Волоцюги	m	
+Vanellope's House	Будинок Ванілопи	m	
 Ralph's House	Будинок Ральфа	m	
 Phil's House	Будинок Філа	m	
-Jasmine's House	Будинок Жасмин	m	
+Jasmine's House	Будинок Жасмін	m	
 Alice's House	Будинок Аліси	m	
 Ursula's House	Будинок Урсули	m	
 Hades' House	Будинок Аїда	m	
 Cruella's House	Будинок Круелли	m	
 Aladdin's House	Будинок Аладдіна	m	
-Moana's House	Будинок Моани	m	
+Moana's House	Будинок Ваяни	m	
 WALL·E's House	Будинок ВОЛЛ·І	m	
 WALL·E's Garden	Сад ВОЛЛ·І	m	
-Mister McDuck	містер Макдак	m	= Scrooge
+Mister McDuck	містер Мак-Дак	m	= Scrooge
 Big Red Monster	Велике червоне чудовисько	n	probably Mei's red panda (Turning Red)
 Companions	Компаньйони	pl	
 Tiger Cub	Тигреня	n	
@@ -781,7 +781,7 @@ Anger Raccoon	Єнот Гнів	m	Inside Out emotions keep the dub names: Рад
 Disgust Raccoon	Єнот Відраза	m	
 Fear Raccoon	Єнот Страх	m	
 Joy Raccoon	Єнот Радість	m	
-Sadness Raccoon	Єнот Сум	m	
+Sadness Raccoon	Єнот Печаль	m	
 Wind-Up Raccoon	Заводний єнот	m	
 Snowy Raccoon	Сніжний єнот	m	
 Blue Whimsical Fox	Синій химерний лис	m	fox companions = лис (m) everywhere
@@ -873,8 +873,8 @@ Wonderland Realm	Світ Країни чудес	m
 The Aristocats	Коти-аристократи	pl	
 Atlantis	Атлантида	f	
 Bambi	Бембі	m	
-Beauty and the Beast	Красуня і Чудовисько	-	film title only; the character is «Звір»
-Beast Realm	Світ Звіра	m	
+Beauty and the Beast	Красуня і Чудовисько	-	film title; the character is «Чудовисько» too
+Beast Realm	Світ Чудовиська	m	
 Big Hero 6	Місто героїв	n	official Ukrainian title (NOT Суперсімка — that is not a title)
 Brave	Відважна	f	
 Cars	Тачки	pl	
@@ -893,9 +893,9 @@ Hercules Realm	Світ Геркулеса	m
 Hocus Pocus	Фокус-покус	m	
 The Incredibles	Суперсімейка	f	
 Inside Out	Думками навиворіт	-	
-Lady and the Tramp	Леді та Блудько	-	
-Lady and the Tramp Realm	Світ «Леді та Блудька»	m	
-Tramp Realm	Світ «Леді та Блудька»	m	
+Lady and the Tramp	«Леді та Волоцюга»	-	
+Lady and the Tramp Realm	Світ «Леді та Волоцюга»	m	
+Tramp Realm	Світ «Леді та Волоцюга»	m	
 Lightyear	Базз Рятівник	m	film tag
 Lilo & Stitch	Ліло і Стіч	-	
 The Lion King	Король Лев	m	

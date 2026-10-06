@@ -21,7 +21,7 @@ would enjoy reading — as if Disney had localized the game officially. Not Russ
   `Player` speaks in MASCULINE forms, and others address the player in masculine (ти зробив, ти прийшов).
 - **Address**: the player is ALWAYS «ти» — in dialogue, quest steps, hints and UI too:
   «Поговори з Мерліном», «Збери 10 яблук», «Тобі підказали…». Use «ви» only when the English clearly addresses
-  several people, or a character is formally addressing a stranger/elder (e.g. to Скрудж as «містере Макдак»).
+  several people, or a character is formally addressing a stranger/elder (e.g. to Скрудж as «містере Мак-Дак»).
 - Villagers call each other and the player by name in the vocative where natural (Мерліне, Міккі, Вуді).
 
 ## Style
